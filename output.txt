@@ -1,0 +1,12 @@
+----L1I-INSTRUCTION.CACHE---- 
+Total Misses : 41 
+Total Hit: 0 
+Total Eviction : 9 
+----L1D-DATA.CACHE---- 
+Total Misses : 59 
+Total Hit: 20 
+Total Eviction : 13 
+----L2-L2.CACHE---- 
+Total Misses : 100 
+Total Hit: 20 
+Total Eviction : 78 
